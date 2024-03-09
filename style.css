@@ -1,0 +1,28 @@
+:root {
+  --bodyFontSize: 18px;
+}
+body {
+  font-family: "Dosis", sans-serif;
+  text-transform: uppercase;
+}
+.navLogo {
+  max-width: 250px;
+  color: white;
+}
+.logo {
+  max-width: 700px;
+  margin: auto;
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.firstP {
+  max-width: 400px;
+  margin-left: 50px;
+  border-radius: 2px;
+}
+.firstT {
+  text-align: justify;
+  margin: 50px 50px 50px 0;
+  font-size: var(--bodyFontSize);
+}
